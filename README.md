@@ -1,6 +1,8 @@
 # Vagrant
 Centos7 ( Terraform + Docker + Git )
 
+Prerequisite: Install VirtualBox
+
 Vagrant file that shares folder between Remote host and local host.
 
  + Installs Terraform
